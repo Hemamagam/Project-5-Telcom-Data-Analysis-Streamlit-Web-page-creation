@@ -8,7 +8,6 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
 
-
 st.set_page_config(layout="wide")
 
 with open('style.css') as f:
