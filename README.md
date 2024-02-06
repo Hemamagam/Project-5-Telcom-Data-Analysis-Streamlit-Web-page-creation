@@ -31,4 +31,10 @@ Business Needs
     - Using experience metric performed K-mean clustering (k=3)
 
 **Task 4- Satisfaction Analytics**
+  - Engagement score for each user using Euclidean Distance
+  - Experience score for each user using Euclidean Distance
+  - based on average Engagement and Experience score found the satisfaction score
+  - Top 10 Satisfied customers
+  - Regression Model- Random Forest Regressor for predict the satisfaction score of a customer
+  - 
   - 
