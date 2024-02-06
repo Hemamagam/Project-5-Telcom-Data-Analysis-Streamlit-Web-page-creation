@@ -8,3 +8,4 @@ Task 1 -User Overview Analysis
 - Identifying Top 10 handsets used by the customer
 - Identify Top 3 Handset Manufacturer
 - Identify Top 3 Handset per top 3 Manufacturer
+- Overview of users behaviour on applications -xDr Session, Session Duration, Total DL, Total UL etc
