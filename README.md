@@ -11,4 +11,4 @@ Business Needs
 - Overview of users behaviour on applications - xDr Session Duration, Total DL, Total UL etc.
 
 **Task 2 -User Engagement Analysis** 
- 
+  - Track the user's engagement using session frequency, Duration of the session, the session total trafic (DL and UL)
