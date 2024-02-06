@@ -36,5 +36,11 @@ Business Needs
   - based on average Engagement and Experience score found the satisfaction score
   - Top 10 Satisfied customers
   - Regression Model- Random Forest Regressor for predict the satisfaction score of a customer
+  - Feature importance
+  - Prediction for the Satisfaction score
+  - K-mean on Engagement and Experience Score
+  - Clustering on Engagement and Experience Score
+  - Aggregate the average Satisfaction and Experience Score for the cluster
+  - 
   - 
   - 
