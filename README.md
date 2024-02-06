@@ -41,6 +41,25 @@ Business Needs
   - K-mean on Engagement and Experience Score
   - Clustering on Engagement and Experience Score
   - Aggregate the average Satisfaction and Experience Score for the cluster
+  - Final Conclusion and Recommendation
+    
+**Web Page Creation**
+  - Using Streamlit created web page Dashboard
+    
+**Power point presenation-Telcom Data analysis report**
+  - Objective and Business Needs
+  -Top Handsets used by Customers
+  -Top Handsets Manufacturers
+  -User Engagement Analysis
+  -K-Mean Clustering for User Engagement
+  -Experience Analysis
+  -Less Engaged and Worst Experience Clusters
+  -Satisfaction Analysis
+  -Top Satisfied Customers
+  -Model Building
+  -Growth Opportunities and Enhancing User Experience 
+
+
   - 
   - 
   - 
