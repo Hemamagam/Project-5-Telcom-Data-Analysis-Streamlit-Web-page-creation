@@ -8,7 +8,7 @@ Business Needs
 - Identifying Top 10 handsets used by the customer
 - Identify Top 3 Handset Manufacturer
 - Identify Top 3 Handset per top 3 Manufacturer
-- Overview of users behaviour on applications -xDr Session, Session Duration, Total DL, Total UL etc
+- Overview of users behaviour on applications - xDr Session Duration, Total DL, Total UL etc.
 
-**Task 2 - User Engagement Analysis**
-  - 
+**Task 2 -User Engagement Analysis** 
+ 
