@@ -4,4 +4,7 @@ Business Needs
 
 Task 1 -User Overview Analysis
 - Data Extraction
-- EDA- Exploratory Data Analysis 
+- EDA- Exploratory Data Analysis
+- Identifying Top 10 handsets used by the customer
+- Identify Top 3 Handset Manufacturer
+- Identify Top 3 Handset per top 3 Manufacturer
