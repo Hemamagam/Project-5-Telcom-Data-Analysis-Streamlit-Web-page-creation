@@ -12,3 +12,9 @@ Business Needs
 
 **Task 2 -User Engagement Analysis** 
   - Track the user's engagement using session frequency, Duration of the session, the session total trafic (DL and UL)
+  - Top 10 customers per engagement metric
+  - Normalizing each engagement metric
+  - K-mean cluster (k=3)
+  - Min, Max, Average, Total non-normalized metrics for each cluster
+  - Top 10 most engaged users per applications
+  - 
