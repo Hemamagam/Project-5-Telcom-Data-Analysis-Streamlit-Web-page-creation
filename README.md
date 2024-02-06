@@ -1,4 +1,4 @@
-User Analytics in Telcommunication Industry - (Telcom Data Analysis)
+**User Analytics in Telcommunication Industry - (Telcom Data Analysis)**
 Project summary
 Business Needs
 
