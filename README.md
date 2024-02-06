@@ -19,6 +19,7 @@ Business Needs
   - Top 10 most engaged users per applications
   - Top 3 most used applications
   - k-engagement clusters based on the engagement metrics
-
+    
 **Task 3- Experience Analytics**
+   - Agregated per customer based on Average TCP Retransmission, Average RTT, Handset type and Average throughput
   - 
