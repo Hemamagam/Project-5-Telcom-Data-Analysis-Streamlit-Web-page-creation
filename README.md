@@ -17,4 +17,8 @@ Business Needs
   - K-mean cluster (k=3)
   - Min, Max, Average, Total non-normalized metrics for each cluster
   - Top 10 most engaged users per applications
+  - Top 3 most used applications
+  - k-engagement clusters based on the engagement metrics
+
+**Task 3- Experience Analytics**
   - 
