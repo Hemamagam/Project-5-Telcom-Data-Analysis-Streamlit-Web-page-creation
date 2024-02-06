@@ -22,4 +22,13 @@ Business Needs
     
 **Task 3- Experience Analytics**
    - Agregated per customer based on Average TCP Retransmission, Average RTT, Handset type and Average throughput
+   - TOp 10 , bottom 10 and most frequent
+       - TCP values in dataset
+       - RTT values in dataset
+       - Throughput values in dataset
+    - Distribution of average throughput per handset type
+    - Averaged TP retransmission view per handset type
+    - Using experience metric performed K-mean clustering (k=3)
+
+**Task 4- Satisfaction Analytics**
   - 
